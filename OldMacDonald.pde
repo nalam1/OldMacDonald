@@ -8,7 +8,7 @@ public void setup()
     Cow c = new Cow("cow", "moo");   
     System.out.println(c.getType() + " goes " + c.getSound());  
 
-    Chick h = new Chick("chick", "peep");   
+    Chick h = new Chick("chick", "chirp");   
     System.out.println(h.getType() + " goes " + h.getSound());  
 
     Pig p = new Pig("pig", "oink");   
